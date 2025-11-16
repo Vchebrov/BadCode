@@ -5,7 +5,7 @@ using UnityEngine.Serialization;
 [RequireComponent(typeof(Rigidbody))]
 public class InstantiateBulletsShooting : MonoBehaviour
 {
-    [SerializeField] float _shootingDelay = 1f;
+    [SerializeField] float _shootingDelay = 10f;
     [SerializeField] private float number;
     [SerializeField] private Transform _prefab;
     [SerializeField] private Transform Target;
