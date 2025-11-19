@@ -141,12 +141,10 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3233923574766470628}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5864addeb48a0147b04d151b5477382, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _shootingDelay: 1
-  number: 0
-  _prefab: {fileID: 6959242545997558076, guid: fd60d74a57623cf49b1da6797381b5af, type: 3}
-  Target: {fileID: 0}
+  _bullet: {fileID: 8455816844758927007, guid: e34b13dc9a6e2564d99d1546e3ebc47a, type: 3}
+  _target: {fileID: 6959242545997558076, guid: fd60d74a57623cf49b1da6797381b5af, type: 3}

@@ -118,6 +118,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0e3bea26f1195947a2c897e783cc718, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlacePoint: {fileID: 0}
   _speed: 2
-  Places: []
+  _wayPoints: []
